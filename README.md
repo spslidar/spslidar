@@ -61,7 +61,7 @@ las2las -i comb534Mill.laz -o dataset3 -utm 30N
 
 ### Authors
 
-Antonio Jesús Rueda Ruíz - ajrueda@ujaen.es
-Rafael Jesús Segura Sánchez - rsegura@ujaen.es
-Carlos Javier Ogayar Anguita - cogayar@ujaen.es
-Juan Antonio Béjar Martos - jabm0010@red.ujaen.es
+- Antonio Jesús Rueda Ruíz - ajrueda@ujaen.es
+- Rafael Jesús Segura Sánchez - rsegura@ujaen.es
+- Carlos Javier Ogayar Anguita - cogayar@ujaen.es
+- Juan Antonio Béjar Martos - jabm0010@red.ujaen.es
